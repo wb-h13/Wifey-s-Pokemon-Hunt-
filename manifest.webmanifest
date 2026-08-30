@@ -1,14 +1,24 @@
 {
-  "name": "Wifey's Pokémon Hunt",
-  "short_name": "Pokémon Hunt",
-  "description": "A private, offline-friendly Pokémon card hunt checklist.",
+  "name": "Wifey's Pok\u00e9mon Hunt",
+  "short_name": "Pok\u00e9mon Hunt",
+  "description": "A mobile Pok\u00e9mon card hunt checklist with core and foreign-language catalogues.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fbf8ff",
-  "theme_color": "#76549b",
+  "background_color": "#5d64bb",
+  "theme_color": "#6f56c9",
   "icons": [
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
