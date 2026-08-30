@@ -18,3 +18,10 @@ GitHub Pages-ready PWA.
 - Foreign data is loaded per-language and cached locally after first load. TCGdex coverage varies by language, so the foreign catalogue reflects cards/variants present in that database rather than claiming perfect completeness for every historic regional printing.
 
 Foreign catalogue requires internet for the first load of each language; already-loaded language data is then saved on the device.
+
+## v5 UI update
+- Clean translucent Mew wallpaper (no UI baked into the image).
+- Multi-finish printings are grouped into one card row.
+- Tap a multi-variant card to expand/collapse its variant checklist.
+- Each finish (Holo, Reverse Holo, 1st Edition, etc.) is tracked independently.
+- The same expandable behaviour is used in the Foreign catalogue.
